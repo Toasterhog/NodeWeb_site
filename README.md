@@ -1,2 +1,3 @@
 # NodeWeb_site
-its a siteweb for nodes to webweb
+NodeWeb is a mindmap program 
+https://toasterhog.github.io/NodeWeb_site/
